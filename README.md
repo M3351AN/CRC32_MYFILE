@@ -29,7 +29,7 @@ When I ran a test using the "crc32_myfile.cc" file included in the project, my i
 - CPU performance
 - luck
 
-At least we've proven that CRC32 isn't always reliable. A fixed point was found within 1467 seconds. This means that, theoretically, a modified file can get the same CRC32 hash as the original file in about 1467 seconds.
+At least we've proven that CRC32 isn't always reliable. A fixed point was found within 1467 seconds.
 
 1467 seconds, that's a long time, isn't it? But for someone with malicious intent, it's not a long time to complete in their lifetime, let alone just listening to six songs.
 
