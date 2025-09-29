@@ -43,7 +43,7 @@ If you want a file to verify itself, digital signing is obviously a wiser approa
 
 - Have a CPU, preferably a "modern" one
 - Place a "CRC32_HASH_MARK" in the file
-- Then: crc32_myfile <thefile>
+- Then: `CRC32_MYFILE <your file>`
 - Listen to "秒針を噛む" 6 times, 12 times, 24 times, 48 ​​times, 96 times... or take a nap
 - Profit
 
